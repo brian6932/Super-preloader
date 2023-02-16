@@ -74,6 +74,7 @@
 // @exlucde      http*://www.commcarehq.org/accounts/login/*gre
 // @exclude      http*://simkl.com/*
 // @exclude      http*://knowyourmeme.com/*
+// @exclude      http*://docs.fauna.com/*
 // ==/UserScript==
 
 (function () {
